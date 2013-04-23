@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system>
+<office name="office1" counters="2">
+	<document name="document1">
+		<necessaryDocument name="document2"></necessaryDocument>
+		<necessaryDocument name="document3"></necessaryDocument>
+	</document>
+	<document name="document4">
+		<necessaryDocument name="document5"></necessaryDocument>
+	</document>
+	<document name="document6"></document>
+</office>
+<office name="office2" counters="1">
+	<document name="document2"></document>
+		<necessaryDocument name="document7"></necessaryDocument>
+	<document name="document3"></document>
+	<document name="document5"></document>
+</office>
+<office name="office3" counters="1">
+	<document name="document7"></document>
+</office>
+</system>
